@@ -17,6 +17,10 @@ Retired). This code was made in a night and was not intended to look pretty or w
 * Modified `processMail()` to support any array length
 * Added `README.md` (obviously)
 
+## Prerequisites
+* Mail account (and the IMAP details to use it)
+* SendGrid API Key
+
 ## Installation
 ```
 git clone https://github.com/ultravioletwtf/silence
