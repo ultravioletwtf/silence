@@ -25,5 +25,5 @@ npm i
 node src
 ```
 
-## Please do not use this code to reprsent me or my talent.
+## Please do not use this code to represent me or my talent.
 This was a piece of software to serve one function for one night, made in one night. I don't use it actively, and use more modern solutions usually. This is part of my [pledge to release all retired personal projects](https://violet.wtf/letters/1).
